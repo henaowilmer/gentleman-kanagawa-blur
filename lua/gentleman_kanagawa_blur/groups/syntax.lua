@@ -36,7 +36,7 @@ return {
 	Typedef = { fg = p.type }, -- A typedef
 	Special = { fg = p.tag }, -- any special symbol
 	SpecialChar = { fg = p.special }, -- special character in a constant
-	Tag = { fg = p.tag }, -- you can use CTRL-] on this
+	Tag = { fg = p.ligh_blue }, -- you can use CTRL-] on this
 	SpecialComment = { fg = p.comment_doc }, -- special things inside a comment
 	Debug = { fg = p.hint }, -- debugging statements
 	Underlined = { underline = true }, -- text that stands out
