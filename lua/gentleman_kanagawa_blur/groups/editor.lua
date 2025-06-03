@@ -85,5 +85,5 @@ return {
 
 	-- Estilo Italic (si se usa explícitamente)
 	Italic = { fg = p.blue, italic = true },
-	WildMenu = { fg = p.black, bg = p.purple },
+	WildMenu = { fg = p.black, bg = p.ligh_blue },
 }
