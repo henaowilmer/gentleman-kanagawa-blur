@@ -24,8 +24,8 @@ return {
 	VisualNOS = { bg = p.gray4 },
 
 	-- Directorios y títulos
-	Directory = { fg = p.purple },
-	Title = { fg = p.green },
+	Directory = { fg = p.primary },
+	Title = { fg = p.yellow },
 
 	-- Diffs y Git
 	DiffAdd = { bg = p.green, fg = p.black },
