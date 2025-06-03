@@ -75,6 +75,7 @@ local palettes = {
 		variable_parameter = "#C7A8DF",
 		variable_special = "#B6A6C8",
 		variant = "#CA8FB9",
+		ligh_blue = "#8eb8dd",
 
 		none = "NONE",
 	},

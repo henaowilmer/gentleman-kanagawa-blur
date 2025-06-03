@@ -24,7 +24,7 @@ return {
 	VisualNOS = { bg = p.gray4 },
 
 	-- Directorios y títulos
-	Directory = { fg = p.primary },
+	Directory = { fg = p.ligh_blue },
 	Title = { fg = p.yellow },
 
 	-- Diffs y Git
@@ -37,7 +37,7 @@ return {
 	ErrorMsg = { fg = p.orange },
 	WarningMsg = { fg = p.yellow },
 	ModeMsg = { fg = p.gray3, bold = true },
-	MoreMsg = { fg = p.bright_magenta },
+	MoreMsg = { fg = p.bright_red },
 	Question = { fg = p.purple },
 
 	-- Número de línea
