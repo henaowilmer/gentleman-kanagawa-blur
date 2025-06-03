@@ -24,7 +24,7 @@ return {
 	VisualNOS = { bg = p.gray4 },
 
 	-- Directorios y títulos
-	Directory = { fg = p.ligh_blue },
+	Directory = { fg = p.purple },
 	Title = { fg = p.yellow },
 
 	-- Diffs y Git
@@ -37,7 +37,7 @@ return {
 	ErrorMsg = { fg = p.orange },
 	WarningMsg = { fg = p.yellow },
 	ModeMsg = { fg = p.gray3, bold = true },
-	MoreMsg = { fg = p.bright_red },
+	MoreMsg = { fg = p.bright_magenta },
 	Question = { fg = p.purple },
 
 	-- Número de línea
@@ -85,5 +85,5 @@ return {
 
 	-- Estilo Italic (si se usa explícitamente)
 	Italic = { fg = p.blue, italic = true },
-	WildMenu = { fg = p.black, bg = p.ligh_blue },
+	WildMenu = { fg = p.black, bg = p.purple },
 }
