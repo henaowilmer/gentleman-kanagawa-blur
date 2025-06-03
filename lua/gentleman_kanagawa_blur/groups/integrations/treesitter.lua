@@ -24,7 +24,7 @@ return {
 	["@string.escape"] = { fg = p.string_escape },
 	["@string.special.url"] = { fg = p.link_uri, underline = true },
 	["@symbol"] = { fg = p.enum },
-	["@tag"] = { fg = p.tag },
+	["@tag"] = { fg = p.ligh_blue },
 	["@tag.attribute"] = { fg = p.attribute, italic = true },
 	["@tag.delimiter"] = { fg = p.delimiter },
 	["@type.builtin"] = { fg = p.type },
